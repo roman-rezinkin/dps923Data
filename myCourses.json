@@ -4,15 +4,15 @@
   "timestamp": "2019-09-16T17:34:40+00:00",
   "count": 10,
   "data": [
-    {"id" : "0", "courseCode": "BTP 400", "courseName": "Software II - Java"},
-    {"id" : "1", "courseCode": "BTC 440", "courseName": "Business & Technical Writing"},
-    {"id" : "2", "courseCode": "BTN 415", "courseName": "Data Communications Programming"},
-    {"id" : "3", "courseCode": "BTI 425", "courseName": "Web Programming for Apps & Services"},
-    {"id" : "4", "courseCode": "BTS 430", "courseName": "Analysis Design Uml"},
-    {"id" : "5", "courseCode": "BTB 520", "courseName": "Canadian Business Environment"},
-    {"id" : "6", "courseCode": "BTP 500", "courseName": "Data Structures and Algorithms"},
-    {"id" : "7", "courseCode": "BTS 530", "courseName": "Major Project - Planning and Design"},
-    {"id" : "8", "courseCode": "DPS 923", "courseName": "IOS Development"},
-    {"id" : "9", "courseCode": "BTH 545", "courseName": "Principles of GUI Design and Programming"}
+    {"id": "0", "courseCode": "BTP 400", "courseName": "Software II - Java"},
+    {"id": "1", "courseCode": "BTC 440", "courseName": "Business & Technical Writing"},
+    {"id": "2", "courseCode": "BTN 415", "courseName": "Data Communications Programming"},
+    {"id": "3", "courseCode": "BTI 425", "courseName": "Web Programming for Apps & Services"},
+    {"id": "4", "courseCode": "BTS 430", "courseName": "Analysis Design Uml"},
+    {"id": "5", "courseCode": "BTB 520", "courseName": "Canadian Business Environment"},
+    {"id": "6", "courseCode": "BTP 500", "courseName": "Data Structures and Algorithms"},
+    {"id": "7", "courseCode": "BTS 530", "courseName": "Major Project - Planning and Design"},
+    {"id": "8", "courseCode": "DPS 923", "courseName": "IOS Development"},
+    {"id": "9", "courseCode": "BTH 545", "courseName": "Principles of GUI Design and Programming"}
    ]
 }
